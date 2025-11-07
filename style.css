@@ -1,0 +1,7 @@
+body {
+    font-family: 'Poppins', sans-serif;
+      background: linear-gradient(rgb(235, 173, 3), rgb(255, 215, 107));
+    color: white;
+    overflow-x: hidden;
+    position: relative;
+}
